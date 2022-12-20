@@ -20,7 +20,7 @@ const listRender = (data) => {
       <td>${item.first_name}</td>
       <td>${item.last_name}</td>
       <td>${item.email}</td>
-      <td class="cell-img">
+      <td>
         <img src=${item.avatar}>
       </td>
     `;
