@@ -1,8 +1,8 @@
 Чтобы развернуть проект необходимо:
 
-$ git clone https://github.com/forw1k/overlay.git
+$ git clone https://github.com/forw1k/table-page.git
 
-$ cd overlay
+$ cd table-page
 
 $ npm install
 
